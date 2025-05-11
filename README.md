@@ -22,6 +22,6 @@ c) pandas for data manipulation and analysis
 <br>
 \ - Escape sequence character use to jump the text to next line 
 <br>
-print("Hello World" , 6, 7, sep="~", end="009\n") you can also seprate this by using *sep* parameter 
+print("Hello World" , 6, 7, sep="~",end="009\n") you can also seprate this by using sep parameter 
 <br>
 Output :- Hello World~6~7009
