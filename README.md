@@ -29,9 +29,15 @@ Output :- Hello World~6~7009
 **Variable** - is like a container where you can store any thing and for example just like in your house there is container where you can store Dal and same time you cab change the Dal with Rice or anything You can assign a value to a variable using the assignment operator (=). For example: x = 5
 <br>
 **Data Types**: Python has several built-in data types, including:
-Integers (int): whole numbers, e.g. 1, 2, 3, etc.
-Floats (float): decimal numbers, e.g. 3.14, -0.5, etc.
-Strings (str): sequences of characters, e.g. "hello", 'hello', etc.
-Boolean (bool): true or false values
-Lists (list): ordered collections of items, e.g. [1, 2, 3], ["a", "b", "c"], etc.
-Tuples (tuple): ordered, immutable collections of items, e.g. (1, 2, 3), ("a", "b", "c"), etc.
+<br>
+**Integers (int):** whole numbers, e.g. 1, 2, 3, etc.
+<br>
+**Floats (float):** decimal numbers, e.g. 3.14, -0.5, etc.
+<br>
+**Strings (str):** sequences of characters, e.g. "hello", 'hello', etc.
+<br>
+**Boolean (bool):** true or false values
+<br>
+**Lists (list):** ordered collections of items, e.g. [1, 2, 3], ["a", "b", "c"], etc.
+<br>
+**Tuples (tuple):** ordered, immutable collections of items, e.g. (1, 2, 3), ("a", "b", "c"), etc.
