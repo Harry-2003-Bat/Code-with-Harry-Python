@@ -2,9 +2,9 @@
 in this repository you will find everything related to Pyhton while i was learning from Code with Harry
 <br>
 Author - Harwardhan Singh Jadho
-# Video 3 
+Video 3 
 prg - print("hello world")
-# Video 4
+Video 4
 **type of module** - 1) _Built-in-Module_ - already install in python languge 
 <br>
 2) _External Module_ - written by expert and you can use it during code 
@@ -15,7 +15,7 @@ b) numpy for numerical computations
 <br>
 c) pandas for data manipulation and analysis
 <br>
-# Video 5 
+Video 5 
 **\n** - use for shift the Text to next line 
 <br>
 **#**-  Comments in pyton ( we can also use ''' & --- respectively )
@@ -25,7 +25,7 @@ c) pandas for data manipulation and analysis
 print("Hello World" , 6, 7, sep="-", end="009\n") you can also seprate this by using **sep** parameter 
 <br>
 Output :- Hello World~6~7009
-# Video 6
+Video 6
 **Variable** - is like a container where you can store any thing and for example just like in your house there is container where you can store Dal and same time you cab change the Dal with Rice or anything You can assign a value to a variable using the assignment operator (=). For example: x = 5
 <br>
 **Data Types**: Python has several built-in data types, including:
