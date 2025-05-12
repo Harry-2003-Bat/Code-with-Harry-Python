@@ -41,3 +41,19 @@ Output :- Hello World~6~7009
 **Lists (list):** ordered collections of items, e.g. [1, 2, 3], ["a", "b", "c"], etc.
 <br>
 **Tuples (tuple):** ordered, immutable collections of items, e.g. (1, 2, 3), ("a", "b", "c"), etc.
+# Video 7
+**Create a Simple Calculator**
+<br>
+import math
+take = input("Enter the first number: ")
+take2 = input("Enter the second number: ")
+add = int(take) + int(take2)
+sub = int(take) - int(take2)
+mul = int(take) * int(take2)
+div = int(take) / int(take2)
+math.fmod  = int(take) % int(take2)
+print("The Superman of the two numbers is: ", add)
+print("The Batman of the two numbers is: ", sub)  
+print("The Wonder Women of the two numbers is: ", mul)
+print("The Flash of the two numbers is: ", div) 
+print("the Cyborg of the two number is: ", math.fmod) 
