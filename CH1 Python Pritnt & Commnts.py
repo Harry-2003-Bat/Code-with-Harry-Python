@@ -75,3 +75,27 @@ but this is just a feature of the editor, not Python itself.
 
 # TODO: Refactor this function
 """
+"""
+| Emoji | Description                | Unicode         |
+|-------|----------------------------|-----------------|
+| 😀    | Grinning Face              | \U0001F600      |
+| 😂    | Face with Tears of Joy     | \U0001F602      |
+| ❤️    | Red Heart                  | \u2764          |
+| 🐍    | Snake                      | \U0001F40D      |
+| 🌍    | Earth Globe Europe-Africa  | \U0001F30D      |
+| 👍    | Thumbs Up                  | \U0001F44D      |
+| 🎉    | Party Popper               | \U0001F389      |
+| 🔥    | Fire                       | \U0001F525      |
+| 💡    | Light Bulb                 | \U0001F4A1      |
+| 🚀    | Rocket                     | \U0001F680      |
+| 🏎️    | Racing Car                 | \U0001F3CE      |
+| 🚗    | Automobile (Car)           | \U0001F697      |
+| 🏁    | Chequered Flag             | \U0001F3C1      |
+| 📚    | Books                      | \U0001F4DA      |
+| 🧑‍💻   | Technologist               | \U0001F9D1\u200D\U0001F4BB |
+| 🕹️    | Joystick                   | \U0001F579      |
+| 🧠    | Brain                      | \U0001F9E0      |
+| 📝    | Memo                       | \U0001F4DD      |
+| 🗂️    | Card Index Dividers        | \U0001F5C2      |
+| 🧩    | Puzzle Piece               | \U0001F9E9      |
+"""
