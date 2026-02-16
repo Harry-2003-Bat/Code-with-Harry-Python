@@ -52,6 +52,12 @@ import math  # Importing the built-in math module
 
 print(math.sqrt(16))  # Output: 4.0
 
+# Content of main.py
+def welcome():
+    print("Hey, you are welcome my friend!")
+
+harry_status = "Harry is a good boy"
+
 # another Example 
 
 from math import pi
